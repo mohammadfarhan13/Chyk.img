@@ -1,1 +1,1 @@
-# Chyk.img
+# Chykimg
